@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/Chapter11/react-suspense-with-swr/word-wrap-1.2.4",
+    "dependabot/npm_and_yarn/Chapter13/graphql/backend/word-wrap-1.2.4",
+    "dependabot/npm_and_yarn/Chapter13/graphql/frontend/word-wrap-1.2.4",
+    "dependabot/npm_and_yarn/Chapter16/my-first-vite-project/word-wrap-1.2.4",
+    "dependabot/npm_and_yarn/Chapter16/testing/word-wrap-1.2.4",
+    "main",
+    "origin",
+    "patch-1"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/Chapter11/react-suspense-with-swr/word-wrap-1.2.4": "main",
+    "dependabot/npm_and_yarn/Chapter13/graphql/backend/word-wrap-1.2.4": "main",
+    "dependabot/npm_and_yarn/Chapter13/graphql/frontend/word-wrap-1.2.4": "main",
+    "dependabot/npm_and_yarn/Chapter16/my-first-vite-project/word-wrap-1.2.4": "main",
+    "dependabot/npm_and_yarn/Chapter16/testing/word-wrap-1.2.4": "main",
+    "main": null,
+    "origin": "main",
+    "patch-1": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/Chapter11/react-suspense-with-swr/word-wrap-1.2.4",
+    "dependabot/npm_and_yarn/Chapter13/graphql/backend/word-wrap-1.2.4",
+    "dependabot/npm_and_yarn/Chapter13/graphql/frontend/word-wrap-1.2.4",
+    "dependabot/npm_and_yarn/Chapter16/my-first-vite-project/word-wrap-1.2.4",
+    "dependabot/npm_and_yarn/Chapter16/testing/word-wrap-1.2.4",
+    "origin",
+    "patch-1"
+  ]
+}
